@@ -9,7 +9,7 @@ The goal of this project is to understand how real-world applications are deploy
 ---
 
 ## 🏗 Architecture Overview
-![Architecture]([https://raw.githubusercontent.com/username/repo/main/images/aws-3tier-architecture.png](https://github.com/vipul132/AWS-3-tier-Infrastructure-Project-with-youtube-video/blob/master/Architecture-inage.jpg))
+![Architecture](https://raw.githubusercontent.com/vipul132/AWS-3-tier-Infrastructure-Project-with-youtube-video/master/Architecture-inage.jpg))
 
 
 In this architecture:
